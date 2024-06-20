@@ -6,19 +6,19 @@ Kelompok: {kelompok}
 Proyek: {proyek}
 Anggota:
 *Ketua: Ketua
-*Anggota 1: Zulfikar Gustiady
-*Anggota 2: Yudi Anugrah
+* Anggota 1: Zulfikar Gustiady
+* Anggota 2: Yudi Anugrah
 # Judul Proyek
-Lorem ipsum sir dolor amet.
+- 
 
 # Penjelasan Proyek
-Lorem ipsum sir dolor amet.
+-
 
 # Komponen Proyek
-Lorem ipsum sir dolor amet.
+-
 
 # Pembagian Tim
-Lorem ipsum sir dolor amet.
+-
 
 # Demo Proyek
 *Github: 
