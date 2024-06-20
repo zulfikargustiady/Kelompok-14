@@ -6,7 +6,7 @@ Kelompok: {kelompok}
 Proyek: {proyek}
 Anggota:
 *Ketua: Ketua
-*Anggota 1: Zulfiksr Gustiady
+*Anggota 1: Zulfikar Gustiady
 *Anggota 2: Yudi Anugrah
 # Judul Proyek
 Lorem ipsum sir dolor amet.
@@ -21,5 +21,5 @@ Lorem ipsum sir dolor amet.
 Lorem ipsum sir dolor amet.
 
 # Demo Proyek
-*Github: Github
-*Youtube: Youtube
+*Github: 
+*Youtube: 
