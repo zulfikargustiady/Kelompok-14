@@ -1,11 +1,11 @@
 # Final Proyek Web Programming 2
 - Mata Kuliah: Web Programming 2
-Dosen Pengampu: Muhammad Ikhwan Fathulloh
+- Dosen Pengampu: Muhammad Ikhwan Fathulloh
 # Kelompok
-Kelompok: {kelompok}
-Proyek: {proyek}
-Anggota:
-*Ketua: Ketua
+- Kelompok: {14}
+- Proyek: {proyek}
+- Anggota:
+* Ketua: Ketua
 * Anggota 1: Zulfikar Gustiady
 * Anggota 2: Yudi Anugrah
 # Judul Proyek
@@ -21,5 +21,5 @@ Anggota:
 -
 
 # Demo Proyek
-*Github: 
-*Youtube: 
+* Github: 
+* Youtube: 
