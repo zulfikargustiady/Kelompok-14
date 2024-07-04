@@ -5,7 +5,7 @@
 - Kelompok: {14}
 - Proyek: {proyek}
 - Anggota:
-* Ketua: Ketua
+* Ketua: Zulfikar Gustiady
 * Anggota 1: Zulfikar Gustiady
 * Anggota 2: Yudi Anugrah
 # Judul Proyek
