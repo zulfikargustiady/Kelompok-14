@@ -9,17 +9,11 @@
 * Anggota 1: Zulfikar Gustiady
 * Anggota 2: Yudi Anugrah
 # Judul Proyek
-- 
+- voting metdi
 
 # Penjelasan Proyek
 -
 
-# Komponen Proyek
--
-
-# Pembagian Tim
--
 
 # Demo Proyek
-* Github: 
-* Youtube: 
+* Youtube: https://www.youtube.com/watch?v=hVimwsyUs6c
