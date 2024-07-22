@@ -12,7 +12,13 @@
 - voting metdi
 
 # Penjelasan Proyek
--
+- pada web ini berisi fitur sebgai berikut
+- login dan register
+- lalu dasboard
+- kemudian ada menu voting untuk memilih kandidat voting
+- lalu ada menu manage kandidat yg berfunsi untuk memasukan kandidat baru
+- lalu ada menu hasil voting yg berfungsi untuk melihat hasil voting
+- kemudian catatan kandidat yg berfunsi untuk melihat cacatan kandidat seperti visi dan misi
 
 
 # Demo Proyek
